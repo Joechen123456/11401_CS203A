@@ -1,2 +1,9 @@
 # 11401_CS203A
 YZU_Data_Structure
+• GitHub account: https://github.com/Joechen123456 
+• Course Repository: 11401_CS203A 
+• Course Repository URL: https://github.com/Joechen123456/11401_CS203A 
+• Personal Website Repository: Joechen123456.github.io 
+• Personal Website Repository URL: 
+https://github.com/Joechen123456/Joechen123456.github.io 
+• GitHub Pages: https://Joechen123456.github.io/ 
